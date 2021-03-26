@@ -1,0 +1,14 @@
+{
+  "name": "json-server-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:yujingz/json-server-test.git",
+  "author": "Yujing Zheng <yujing@inceptioglobal.ai>",
+  "license": "MIT",
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
