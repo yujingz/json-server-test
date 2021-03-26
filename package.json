@@ -6,7 +6,7 @@
   "author": "Yujing Zheng <yujing@inceptioglobal.ai>",
   "license": "MIT",
   "scripts": {
-    "start": "json-server --watch db.json"
+    "start": "node server.js"
   },
   "dependencies": {
     "json-server": "^0.16.3"
